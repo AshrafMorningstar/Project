@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 var DRUM_TEXTURE = "https://keithclark.co.uk/labs/css-fps/drum2.png";
 
 // Assembiles are for grouping faces and other assembiles

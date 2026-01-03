@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 let bodyBtn = document.getElementById("body-btn");
 let mainWingBtn = document.getElementById("main-wing-btn");
 let subWingBtn = document.getElementById("sub-wing-btn");

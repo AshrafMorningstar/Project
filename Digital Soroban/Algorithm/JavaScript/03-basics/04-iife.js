@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 // Immediately Invoked Function Expressions (IIFE) 
 
 //  Global scope ke pulation se problem hoti hai kaye baar  toh hus global scope ke jo varibales ya jo bhi waha declaration hai huske polution ko hatane ke liye  hamne IIFE ka use karte hai

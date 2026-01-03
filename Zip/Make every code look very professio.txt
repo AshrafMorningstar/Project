@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
  Make every code look very professional and if there any mistake of sizes corrected and also if they are any displacement make it correct Make this court look interesting and also if there any code error fix it and also if they are repetition of code compressed and make it easy to understand and also make co button transparent and add transparent neo effect and also make hover every button whenever I click On it and change colour And also remove left tilting hover effect And add zoom out and zoom in effect And also make this old css code looks futuristic and super cool And replace the colour with future effective colours
 
 Make this court look interesting and also if there any code error fix it and also if they are repetition of code compressed and make it easy to understand and also make co button transparent and add transparent neo effect and also make hover every button whenever I click On it and change colour And also remove left tilting hover effect And add zoom out and zoom in effect And also make this old css code looks futuristic and super cool And replace the colour with future effective colours

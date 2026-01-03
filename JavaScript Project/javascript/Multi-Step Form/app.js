@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 const steps = Array.from(document.querySelectorAll("form .step"));  
 const nextBtn = document.querySelectorAll("form .next-btn");  
 const prevBtn = document.querySelectorAll("form .previous-btn");  

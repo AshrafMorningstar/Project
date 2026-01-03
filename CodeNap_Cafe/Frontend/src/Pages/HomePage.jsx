@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 import React, { useState, useEffect }  from 'react'
 import Home_Hero from '../Components/Home/Home_Hero.jsx'
 import Home_Service from '../Components/Home/Home_Service.jsx'

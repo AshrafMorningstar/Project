@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 To create both files and folders in a project structure like the one you've described (`/project-folder`, `/assets`, `/css`, `/js`, and HTML files) with just one click in Windows, you can create a simple batch script. This script will automate the process of creating the necessary folders and files.
 
 Here’s how you can do it:
